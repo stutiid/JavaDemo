@@ -2,7 +2,7 @@ package javasamples;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("Hello World");
-		System.out.println("changes done in remote");
+		System.out.println("Hello World!");
+		System.out.println("changes from remote");
 	}
 }
